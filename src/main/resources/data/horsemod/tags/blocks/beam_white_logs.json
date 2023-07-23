@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "horsemod:beam_white_log",
+    "horsemod:beam_white_wood",
+    "horsemod:stripped_beam_white_log",
+    "horsemod:stripped_beam_white_wood"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "item.horsemod.testitem": "Тестовый предмет",
+  "item.horsemod.testblock": "Тестовый блок",
+
+  "block.horsemod.testblock": "Тестовый Блок",
+  "block.horsemod.teststand": "Тестовый Стенд",
+  "block.horsemod.beam_white_log": "Белое бревно",
+  "block.horsemod.beam_white_wood": "Белое дерево",
+  "block.horsemod.stripped_beam_white_log": "Белое бревно очищенное",
+  "block.horsemod.stripped_beam_white_wood": "Белое дерево очищенное",
+  "block.horsemod.beam_white_planks": "Белая доска",
+
+
+  "itemGroup.horsetab": "Лошадиный Шкаф"
+}

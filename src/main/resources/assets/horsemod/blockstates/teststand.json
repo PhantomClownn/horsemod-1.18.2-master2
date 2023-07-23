@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "horsemod:block/teststand" },
+    "facing=east": { "model": "horsemod:block/teststand", "y": 90 },
+    "facing=south": { "model": "horsemod:block/teststand", "y": 180 },
+    "facing=west": { "model": "horsemod:block/teststand", "y": 270 }
+  }
+}

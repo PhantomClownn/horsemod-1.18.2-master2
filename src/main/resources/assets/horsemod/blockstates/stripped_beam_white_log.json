@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "horsemod:block/stripped_beam_white_log_h",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "horsemod:block/stripped_beam_white_log"
+    },
+    "axis=z": {
+      "model": "horsemod:block/stripped_beam_white_log_h",
+      "x": 90
+    }
+  }
+}
